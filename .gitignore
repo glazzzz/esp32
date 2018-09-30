@@ -1,0 +1,4 @@
+build
+main/Kconfig.projbuild
+main/include/servo.h.gch
+sdkconfig*
